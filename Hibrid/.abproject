@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Hibrid",
+  "ProjectGuid": "a48db9c4-470f-4a1a-9433-864f6eb574db",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Hibrid",
+  "DisplayName": "Hibrid",
+  "Author": "",
+  "Description": "Hibrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{463ba8b0-2b17-4ce0-a1a7-2832719a2dc7}",
+  "WP8ProductID": "{68dfbf14-a9c0-4161-a90c-d18e95b7525f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Hibrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
